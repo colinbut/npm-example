@@ -1,0 +1,22 @@
+{
+  "name": "npm-example",
+  "version": "1.0.0",
+  "description": "npm example",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colinbut/npm-example.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Colin But",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colinbut/npm-example/issues"
+  },
+  "homepage": "https://github.com/colinbut/npm-example#readme"
+}
